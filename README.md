@@ -7,15 +7,10 @@ The WebAPI Speech to Text App is an advanced tool designed to convert spoken wor
 ## Features
 - Real-Time Transcription: Immediate conversion of spoken content into text.
 - Multiple Language Support: Covers a vast array of languages.
-- Noise Reduction: Filters out unwanted background noise.
-- Export Options: Export transcriptions to various file formats.
-- User Profiles: Save preferences, histories, and custom vocabulary.
 - Responsive Design: Compatible across devices.
-- Playback Functionality: Verify transcriptions with integrated playback.
 - Custom Vocabulary: Add industry-specific words or terms.
-- Data Security: Prioritizes user data encryption and privacy.
 
-## Applications
+## Possible Applications (Real-Time Transcription)
 - Education: Assists in note-taking and transcribing educational content.
 - Business: Document meetings, webinars, and interviews.
 - Healthcare: Aid medical professionals in recording patient data.
@@ -25,3 +20,5 @@ The WebAPI Speech to Text App is an advanced tool designed to convert spoken wor
 ## Technical Stack
 - **Frontend**: HTML, CSS, JavaScript.
 - **WebAPI**: Web Speech API
+
+ Made with ❤️ by [Shreyash]
