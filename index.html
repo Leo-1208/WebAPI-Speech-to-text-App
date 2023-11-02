@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Transcribe</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="./media/favi.png" type="image/png">
+</head>
+
+<body>
+    <div class="container">
+        <div class="close-btn" id="closeWidget">✕</div>
+        <h1>Transcribe Live.</h1>
+        <h2>Hey There! Just Speak and I will type it for you. </h2>
+
+        <div class="language-selection">
+            <label for="language" class="transcription-label">Select Language</label>
+            <select id="language" class="language-dropdown">
+                <option value="en-US">English (Default)</option>
+                <option value="hi-IN">Hindi</option>
+                <option value="fr-FR">French</option>
+                <option value="ja-JP">Japanese</option>
+                <option value="bn-IN">Bengali</option>
+                <option value="ko-KR">Korean</option>
+                <option value="zh-CN">Mandarin (Simplified)</option>
+            </select>
+            
+        </div>
+
+        <!-- Upload Area -->
+        <div class="upload-area">
+            <button id="startListening">Start Listening</button>
+        </div>
+
+        <!-- Transcript Display -->
+        <div class="transcript-area">
+            <h3>Transcript:</h3>
+            <textarea id="transcriptOutput" readonly></textarea>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
