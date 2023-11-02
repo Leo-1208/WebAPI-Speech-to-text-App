@@ -13,7 +13,6 @@ The WebAPI Speech to Text App is an advanced tool designed to convert spoken wor
 ## Possible Applications (Real-Time Transcription)
 - Education: Assists in note-taking and transcribing educational content.
 - Business: Document meetings, webinars, and interviews.
-- Healthcare: Aid medical professionals in recording patient data.
 - Accessibility: Support for individuals with hearing impairments.
 - Journalism: Quick transcription of interviews and press events.
 
